@@ -30,5 +30,5 @@ Looks like you've managed to make it part the guards. Good job, but remember, th
 Is Heist on? true
 Grab and GO!
 Is Heist on? true
-Left the money bags inside vault
+Left the money bags inside vault\n
 Is Heist on? false
