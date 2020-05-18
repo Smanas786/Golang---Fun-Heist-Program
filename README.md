@@ -1,4 +1,4 @@
-# Perfect-Heist---Golang
+# Perfect-Heist :- Golang
 Program in Go for a perfect heist using RNG
 
 # Output - Success
