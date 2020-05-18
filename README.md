@@ -1,5 +1,5 @@
-# Perfect-Heist :- Golang
-Program in Go for a perfect heist using RNG
+# Programming in Golang := Heist Program
+Perfect Heist program written in GO using RNG
 
 # Output - Success
 Looks like you've managed to make it part the guards. Good job, but remember, this is the first step. 
